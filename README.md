@@ -1,11 +1,11 @@
-About django-fsm-log
-====================
+About django-fsm-log-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-fsm-log-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/gizmag/django-fsm-log
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-fsm-log-feedstock/blob/main/LICENSE.txt)
 
 Summary: Logging for django-fsm
 
