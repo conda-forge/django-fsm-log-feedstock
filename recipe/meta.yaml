@@ -1,13 +1,13 @@
 {% set name = "django-fsm-log" %}
-{% set version = "5.0.2" %}
+{% set version = "6.0.0" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name | replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 5276a587bff3112c123c73456f37decf9c1bdc631e005c760e248adc25c8ec97
+  url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/{{ name | replace('-', '_') }}-{{ version }}.tar.gz
+  sha256: eb6511da626c1d2c8aab26ed2fab987386e2975fe30cf61104d0ff6172ed78db
 
 build:
   noarch: python
